@@ -5,8 +5,10 @@ Weather checher using ==HTML==, ==CSS==,==JS==.
 
 ## TASKS :
 
--[X] ~~init repository .\
+-[X] ~~init repository .
 
--[X] ~~setup all needed files and folders .\
+-[X] ~~setup all needed files and folders .
 
--[X] ~~ html and css added .\
+-[X] ~~ html and css added .
+
+-[X] ~~ js and connection with api added .
